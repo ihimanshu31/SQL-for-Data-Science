@@ -1,4 +1,4 @@
-# Welcome to the SQL for Data Science course from the University of California Davis!
+## Welcome to the SQL for Data Science course from the University of California Davis!
 
 This course is designed for learners who have no previous SQL coding experience and 
 want to learn why and how to use SQL to shape data for targeted analyses. They will start
@@ -16,7 +16,7 @@ the most out of this learning experience. If you have questions about course con
 please post them in the forums to get help from others in the course community. For 
 technical problems with the Coursera platform, visit the Learner Help Center.
 
-# WHAT YOU WILL LEARN IN THIS COURSE:
+### WHAT YOU WILL LEARN IN THIS COURSE:
   --Identify a subset of data needed from a column or set of columns and write a SQL query 
     to limit to those results.
   
@@ -27,4 +27,4 @@ technical problems with the Coursera platform, visit the Learner Help Center.
   -- Manipulate strings, dates, & numeric data using functions to integrate data from different 
     sources into fields with the correct format for analysis.
     
-    README
+    
